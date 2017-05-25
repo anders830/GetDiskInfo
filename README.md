@@ -7,7 +7,7 @@ This PowerShell script can be used to get the disk info as different.
 This function can be used to get the information of disk in specific displayed mode.
 
 .PARAMETER GraphInfo
-The description of a parameter1
+This is a switch parameter, it will get the information of disk drive as graph mode.
 
 .PARAMETER RawInfo
 This is a switch parameter, it will get the information of disk drive as raw mode.
