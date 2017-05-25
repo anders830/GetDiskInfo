@@ -2,15 +2,14 @@
 Function Get-DiskInfo  
 {   
 <#
-
 .DESCRIPTION
 This function can be used to get the information of disk in specific displayed mode.
 
 .PARAMETER GraphInfo
-The description of a parameter1
+This is a switch parameter, it will get the information of disk drive as graph mode.
 
 .PARAMETER RawInfo
-The description of a parameter2
+This is a switch parameter, it will get the information of disk drive as raw mode.
 
 .EXAMPLE
 C:\PS> Get-DiskInfo -GraphInfo
