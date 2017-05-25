@@ -24,3 +24,5 @@ This command will get the information of disk drive as color mode.
 C:\PS> Get-DiskInfo
 This command will get the information of disk drive as color and raw mode.
 ```
+
+![](https://github.com/anders830/GetDiskInfo/blob/master/GetDiskInfo.png)
